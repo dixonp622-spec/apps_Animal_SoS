@@ -1,0 +1,21 @@
+{
+    "contador": 3,
+    "denuncias": [
+        [
+            1,
+            "fisico",
+            "golpearon a un animal",
+            "chinandega",
+            "29/10/2026",
+            null
+        ],
+        [
+            2,
+            "abandono",
+            "dejaron un animal tirado",
+            "leon",
+            "30/10/2026",
+            "c:\\Users\\aniaf\\Downloads\\PROTEGE_ANIMAL_proyecto\\proyecto\\evidencias\\evidencia_20261029_163514.png"
+        ]
+    ]
+}
